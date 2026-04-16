@@ -114,3 +114,6 @@ churn-analysis/
 
 Jessica Rainara
 🔗 [www.linkedin.com/in/jessica-rainara-248828191/](http://www.linkedin.com/in/jessica-rainara-248828191/)
+
+<img width="1088" height="1006" alt="image" src="https://github.com/user-attachments/assets/94ccbd37-8a3b-4c19-b337-0402dd344d16" />
+
